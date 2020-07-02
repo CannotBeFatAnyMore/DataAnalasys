@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\lenovo\Desktop\2020-2课程\数学分析\实验代码\数值分析\微分方程.h(9,8): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\2020-2课程\数学分析\实验代码\数值分析\微分方程.h(20,8): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\2020-2课程\数学分析\实验代码\数值分析\源.cpp(43,29): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  0 of 11 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  数值分析.vcxproj -> C:\Users\lenovo\Desktop\2020-2课程\数学分析\实验代码\数值分析\Release\数值分析.exe
